@@ -241,11 +241,6 @@ print("MSE:", mse)
 
 ---
 
-⏳ **Evening Wrap-up (9 PM)**
-👉 You’ve touched **linear algebra, random data, and even built a mini ML model** with NumPy.
-
----
-
 # 🎯 Final Recap: The **Critical 20% of NumPy**
 
 1. Arrays → foundation of ML
