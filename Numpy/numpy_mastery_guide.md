@@ -1,7 +1,3 @@
-Perfect, Dhruv 🚀 Let’s make this **1-Day NumPy Crash Course** your **launchpad into AI/ML**.
-I’ll design it so you only focus on the **20% of NumPy** that actually powers **80% of AI/ML work**.
-By the end of the day, you’ll be **fluent in the NumPy essentials** used in every ML/AI pipeline.
-
 ---
 
 # 🧠 1-Day NumPy Roadmap for AI/ML Engineers
